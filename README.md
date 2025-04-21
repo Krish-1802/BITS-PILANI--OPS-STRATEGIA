@@ -16,7 +16,7 @@ The challenge revolved around conceptualizing inefficient inventory management a
 
 The presentation proposes an AI-integrated operational roadmap, aiming to optimize profitability, strengthen supply chains, and promote sustainability
 
-You can find the final deck in the README file.
+You can find the final deck in the Ops_Strategia_Final_Deck file.
 
 ## Acknowledgments
 
